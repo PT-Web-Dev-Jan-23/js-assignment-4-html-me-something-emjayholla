@@ -1,5 +1,5 @@
 
-h1 {
+#mainHeading {
     font-size: xx-large;
     font-family: "Courier New", monospace;
 }
@@ -24,13 +24,13 @@ h1 {
 p {
     font-size: medium;
     font-family: "Courier New", monospace;
-    color: aliceblue;
+    color: green;
     border: 1px solid white;
     margin-top: 50px;
     margin-bottom: 100px;
     margin-right: 150px;
     margin-left: 30px;
-    background-color: rgb(34, 98, 120);
+    background-color: rgb(237, 242, 244);
 }
 
 body {
